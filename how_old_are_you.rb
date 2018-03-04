@@ -1,4 +1,4 @@
-touch how_old_are_you.rb
+touch current_age_for_birth_year.rb
 
 require_relative './current_age_for_birth_year.rb'
 
